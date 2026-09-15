@@ -1,5 +1,5 @@
 # database_experiments
-Alguns experimentos com SQLite e mySQL da turma  CG Python 2026.3
+Alguns experimentos com SQLite e MySQL da turma CG Python 2026.3.
 
 Python 3.13
 
@@ -11,3 +11,7 @@ python -m venv .venv
 ```
 
 ## Desativando o venv se necessário
+
+```
+.venv\Scripts\deactivate.bat
+```
